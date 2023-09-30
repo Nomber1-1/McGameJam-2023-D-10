@@ -2,9 +2,11 @@
 McGameJam 2023 Project - D-10
 
 Hi!
+
 This was the project I worked as a part of team #26 - Space Ninjas for the 2023 McGameJam!
-The theme of the 2023 GameJam was "desert" which we interpreted with our space horror game D-10.
-I hope you enjoy!
+The theme of the 2023 GameJam was "desert" which we interpreted with our space horror game D-10. Will you be able to escape before time runs out?
+
+Good luck and I hope you enjoy our game!
 
 D-10 was made in collaboration with:
 Tavio Ficaccio - Programming (Typing Mini-game)
