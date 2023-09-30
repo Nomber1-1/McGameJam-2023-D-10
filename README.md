@@ -29,4 +29,4 @@ Good luck and I hope you enjoy our game!
 
 **Programming Language:** C#
 
-Link to original submission post: https://itch.io/jam/mcgamejam2023/rate/1868854
+**Link to original submission post:** https://itch.io/jam/mcgamejam2023/rate/1868854
