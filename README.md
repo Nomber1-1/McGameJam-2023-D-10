@@ -8,6 +8,7 @@ The theme of the 2023 GameJam was "desert" which we interpreted with our space h
 
 Good luck and I hope you enjoy our game!
 
+
 D-10 was made in collaboration with:
 
 Tavio Ficaccio - Programming (Typing Mini-game)
@@ -24,6 +25,9 @@ Patrick Zakaria - Level Design and Animations
 
 Tarek Namani - 3D Modeling and Lighting
 
+
 Game Engine: Unity
+
 Programming Language: C#
+
 Link to original submission post: https://itch.io/jam/mcgamejam2023/rate/1868854
