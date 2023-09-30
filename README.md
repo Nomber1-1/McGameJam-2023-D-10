@@ -10,7 +10,7 @@ Good luck and I hope you enjoy our game!
 
 **D-10 was made in collaboration with:**
 
-- Tavio Ficaccio - Programming (Typing Mini-game)
+- Tavio Ficaccio - Programming (Game Mechanism)
 
 - Joel Boyer - Partical Effects
 
