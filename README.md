@@ -8,7 +8,7 @@ The theme of the 2023 GameJam was "desert" which we interpreted with our space h
 
 Good luck and I hope you enjoy our game!
 
-D-10 was made in collaboration with:
+**D-10 was made in collaboration with:**
 
 - Tavio Ficaccio - Programming (Typing Mini-game)
 
