@@ -9,12 +9,19 @@ The theme of the 2023 GameJam was "desert" which we interpreted with our space h
 Good luck and I hope you enjoy our game!
 
 D-10 was made in collaboration with:
+
 Tavio Ficaccio - Programming (Typing Mini-game)
+
 Joel Boyer - Partical Effects
+
 Ana Gordon - Programming (Player-Object Interaction)
+
 Aerin Brown - Programming (Player Movement) and Sound Design
+
 Fabian Saldana - 3D Modeling
+
 Patrick Zakaria - Level Design and Animations
+
 Tarek Namani - 3D Modeling and Lighting
 
 Game Engine: Unity
