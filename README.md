@@ -19,3 +19,4 @@ Tarek Namani - 3D Modeling and Lighting
 
 Game Engine: Unity
 Programming Language: C#
+Link to original submission post: https://itch.io/jam/mcgamejam2023/rate/1868854
