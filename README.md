@@ -13,7 +13,7 @@ Good luck and we hope you enjoy our game!
 
 - Tavio Ficaccio - Programming (Typing Mini-game)
 
-- Joel Boyer - Partical Effects
+- Joel Boyer - Particles Effects
 
 - Ana Gordon - Programming (Player-Object Interaction)
 
