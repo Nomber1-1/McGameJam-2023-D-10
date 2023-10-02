@@ -5,7 +5,7 @@ Hi!
 
 This was the project we worked on as a part of Team #26 - Space Ninjas for the 2023 McGameJam!
 
-The theme of the 2023 McGameJam was "desert" which we interpreted with our space horror game D-10. 
+The theme of the 2023 McGameJam was "desert/deserted" which we interpreted with our space horror game D-10. 
 
 Left deserted on a space station with little to no air, will you be able to escape before time runs out?
 
