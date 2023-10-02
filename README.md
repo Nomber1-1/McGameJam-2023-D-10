@@ -19,11 +19,11 @@ Good luck and we hope you enjoy our game!
 
 - Aerin Brown - Programming (Player Movement) and Sound Design
 
-- Fabian Saldana - 3D Modeling
+- Fabian Saldana - 3D Modelling
 
 - Patrick Zakaria - Level Design and Animations
 
-- Tarek Namani - 3D Modeling and Lighting
+- Tarek Namani - 3D Modelling and Lighting
 
 
 **Game Engine:** Unity
